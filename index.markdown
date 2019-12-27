@@ -4,6 +4,5 @@
 
 layout: home
 paginate: 5
-paginate_path: /recent/page:num/
-
+paginate_path: /page:num/
 ---
