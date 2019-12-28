@@ -21,8 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://kapsnews.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : KAPS News
-description: > # this means to ignore newlines until "Language & timezone"
-  Live broadcasts about news, sports, and weather for Union High School. Created by Uintah Basin CAPS.
+description: "KAPS News: Live broadcasts of sports and daily announcements."  # this means to ignore newlines until "Language & timezone"
 
 
 ## => Language and Timezone
