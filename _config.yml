@@ -21,7 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : https://kapsnews.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : KAPS News
-description: "KAPS News: Live broadcasts of sports and daily announcements."  # this means to ignore newlines until "Language & timezone"
+description: Union's Source of News, Sports, and Weather  # this means to ignore newlines until "Language & timezone"
 
 
 ## => Language and Timezone
@@ -62,7 +62,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
+  home    : /posts # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
@@ -210,8 +210,8 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
-      show_subscribe: true
+      show_edit_on_github: false
+      show_subscribe: false
       pageview: true
 
 

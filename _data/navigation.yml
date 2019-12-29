@@ -4,8 +4,8 @@ header:
     url: /livestream.html
 
   - titles:
-      en: Archive
-    url: /archive.html
+      en: Posts
+    url: /posts.html
 
   - titles:
       en: About
