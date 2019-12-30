@@ -42,6 +42,8 @@ input[type=submit] {
 </style>
 We are always looking for new ways to improve our productions. If you have any suggestions or want something said in the announcements, please send us a message below:
 
+<br>
+
 <form action="https://formspree.io/kapsnewsnetwork@gmail.com" method="POST">
   <div class="name-form">
     <label for="name" class="text">Name:</label>
