@@ -1,6 +1,7 @@
 ---
 layout: article
 title: About
+permalink: /about
 ---
 
 <h3>How did KAPS News started?</h3>

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Contact
+permalink: /contact
 ---
 <style>
 .name-form {
