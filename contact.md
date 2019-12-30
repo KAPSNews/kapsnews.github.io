@@ -73,3 +73,5 @@ You can also reach or find us here: <br>
     Email: <a href="mailto:kapsnewsnetwork@gmail.com">kapsnewsnetwork@gmail.com</a>
   </li>
 </ul>
+
+<br>
