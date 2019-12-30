@@ -65,6 +65,6 @@ We are always looking for new ways to improve our productions. If you have any s
 You can also reach or find us here: <br>
 <ul>
   <li> 
-    Email: kapsnewsnetwork@gmail.com
+    Email: <a href="kapsnewsnetwork@gmail.com">kapsnewsnetwork@gmail.com</a>
   </li>
 </ul>
