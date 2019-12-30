@@ -1,10 +1,10 @@
 ---
-layout: articles
+layout: archive
 title: Posts
-articles:
-  data_source: site.posts
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
+# articles:
+ # data_source: site.posts
+ # show_excerpt: true
+ # show_readmore: true
+ # show_info: true
 permalink: /posts
 ---
