@@ -13,7 +13,7 @@ title: Contact
   float: right;
 }
 
-.button {
+.submit-button {
   width: 100%;
 }
 
@@ -40,11 +40,6 @@ input[type=submit] {
 }
 
 </style>
-
-Email: kapsnewsnetwork@gmail.com
-
-***
-
 We are always looking for new ways to improve our productions. If you have any suggestions or want something said in the announcements, please send us a message below:
 
 <form action="https://formspree.io/kapsnewsnetwork@gmail.com" method="POST">
@@ -60,7 +55,12 @@ We are always looking for new ways to improve our productions. If you have any s
   <label for="message" class="text">Message:</label>
   <textarea id="message" name="message" style="height:150px" required=""></textarea>
   
-  <div class="button">
+  <div class="submit-button">
   <input class="button button--primary button--rounded button--lg" style="width:100%" type="submit" value="Submit">
   </div>
 </form>
+
+***
+
+You can also reach or find us here:
+Email: kapsnewsnetwork@gmail.com
