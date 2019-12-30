@@ -1,6 +1,6 @@
 ---
 layout: articles
-titles: Posts
+title: Home
 show_title: true
 articles:
   data_source: paginator.posts
@@ -10,11 +10,11 @@ articles:
   show_readmore: true
   show_info: true
 ---
+{{ content }}
+
 <div class="layout--home">
   {%- include paginator.html -%}
 </div>
 <script>
   {%- include scripts/home.js -%}
 </script>
-
-{{ content }}
