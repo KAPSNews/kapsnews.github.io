@@ -57,6 +57,8 @@ We are always looking for new ways to improve our productions. If you have any s
 
   <label for="message" class="text">Message:</label>
   <textarea id="message" name="message" style="height:150px" required=""></textarea>
+
+  <input type="text" name="_gotcha" style="display:none" />
   
   <div class="submit-button">
   <input class="button button--primary button--rounded button--lg" style="width:100%" type="submit" value="Submit">
