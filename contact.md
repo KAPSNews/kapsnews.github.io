@@ -26,13 +26,13 @@ select,
 textarea {
   width: 100%;
   padding: 12px;
-  border: 1px solid #ccc;
+  border: 1px solid #323232;
   border-radius: 4px;
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
   resize: none;
-  color: #000000;
+  background-color: #181818;
 }
 
 input[type=submit] {
