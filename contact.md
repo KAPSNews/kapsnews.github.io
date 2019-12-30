@@ -60,7 +60,7 @@ We are always looking for new ways to improve our productions. If you have any s
   </div>
 </form>
 
-***
+<br>
 
 You can also reach or find us here: <br>
 <ul>
