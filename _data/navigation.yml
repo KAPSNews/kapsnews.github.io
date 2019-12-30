@@ -10,3 +10,8 @@ header:
   - titles:
       en: About
     url: /about.html
+
+  - titles:
+      en: Contact
+    url: /contact.html
+

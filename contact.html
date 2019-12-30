@@ -1,0 +1,41 @@
+---
+layout: article
+title: Contact
+---
+<style>
+  .text{
+    font-size: large
+  }
+
+  input[type=form], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: none;
+    color:#000000
+  }
+
+  input[type=submit] {
+    border: none;
+  }
+</style>
+
+<p class="text">Email: kapsnewsnetwork@gmail.com</p>
+
+<form action="https://formspree.io/kapsnewsnetwork@gmail.com" method="POST">
+  <label for="name" class="text">Name:</label>
+  <input type="form" id="name" name="name">
+
+  <label for="email" class="text">Email:</label>
+  <input type="form" name="_replyto">
+
+  <label for="message" class="text">Message:</label>
+  <textarea id="message" name="message" style="height:150px"></textarea>
+
+  <input class="button button--primary button--rounded button--lg" type="submit" value="Submit">
+</form>
+
