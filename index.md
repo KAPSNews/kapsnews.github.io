@@ -11,7 +11,7 @@ article_header:
   align: center
   background_color: '#212121'
   background_image:
-    src: tracy-zhang-JONHzkMZNZQ-unsplash.jpg
+    src: pexels-photo-1672813.jpeg
 ---
 <style>
   div.center {
