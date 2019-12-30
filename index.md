@@ -20,7 +20,7 @@ article_header:
 </style>
 
 <div class="center">
-  <h1>Daily Announcements</h1>
+  <h1>School Announcements</h1>
   <h4>Announcements are broadcasted at 8:05 AM</h4>
   <a class="button button--primary button--rounded button--lg" href="/livestream">Watch Broadcast</a>
 </div>
