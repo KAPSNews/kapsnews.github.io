@@ -1,16 +1,12 @@
 header:
-  - titles:
-      en: Broadcast
+  - title: Broadcast
     url: /broadcast
 
-  - titles:
-      en: Posts
+  - titles: Posts
     url: /posts
 
-  - titles:
-      en: About
+  - titles: About
     url: /about
 
-  - titles:
-      en: Contact
+  - titles: Contact
     url: /contact
