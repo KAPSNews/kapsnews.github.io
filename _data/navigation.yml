@@ -2,11 +2,11 @@ header:
   - title: Broadcast
     url: /broadcast
 
-  - titles: Posts
+  - title: Posts
     url: /posts
 
-  - titles: About
+  - title: About
     url: /about
 
-  - titles: Contact
+  - title: Contact
     url: /contact
