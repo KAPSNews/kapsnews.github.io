@@ -33,7 +33,7 @@ textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: none;
-  background-color: #ffffff;
+  background-color: #f2f2f2;
 }
 
 input[type=submit] {
