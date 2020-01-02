@@ -13,7 +13,7 @@ permalink: /broadcast
       {
       "license":"PLAY2-6rcFk-h6Xpx-mrnGu-yxGn8-BVaRc",
       "sources":[{
-      "sourceURL":"http://205.123.31.30:1935/live/Channel01/playlist.m3u8?DVR"
+      "sourceURL":"https://205.123.31.30:1935/live/Channel01/playlist.m3u8?DVR"
       },
       {
       "sourceURL":""
