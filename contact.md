@@ -54,7 +54,7 @@ We are always looking for new ways to improve our productions. If you have any s
     <label for="email" class="text">Email:</label>
     <input type="form" name="_replyto" required="">
   </div>
-
+  <br>
   <label for="message" class="text">Message:</label>
   <textarea id="message" name="message" style="height:150px" required=""></textarea>
 
