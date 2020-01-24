@@ -1,6 +1,9 @@
 header:
-  - title: Broadcast
+  - title: Announcement
     url: http://205.123.31.30/union.html
+    
+  - title: Sports
+    url: https://www.channelv6.com/live/
 
   - title: Archive
     url: /archive
