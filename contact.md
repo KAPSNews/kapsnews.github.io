@@ -10,7 +10,7 @@ permalink: /contact
 }
 
 .email-form {
-  width: 49%;
+  width: 50%;
   float: right;
 }
 
