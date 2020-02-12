@@ -2,6 +2,8 @@
 layout: article
 title: About
 permalink: /about
+aside:
+  toc: true
 ---
 
 <h3>How did KAPS News start?</h3>
