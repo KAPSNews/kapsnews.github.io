@@ -13,5 +13,5 @@ permalink: /about
 <h3>Okay, so what is CAPS?</h3>
 <p>According to CAPS Network's official <a href="https://yourcapsnetwork.org/">website</a>, CAPS is this: 
 <blockquote cite="https://yourcapsnetwork.org/">
-Center for Advanced Professional Studies (CAPS) programs are nationally recognized, innovative high school programs. Students fast forward into their future and are fully immersed in a professional culture, solving real world problems, using industry standard tools and are mentored by actual employers, all while receiving high school and college credit. CAPS is an example of how business, community and public education can partner to produce personalized learning experiences that educate the workforce of tomorrow, especially in high skill, high demand jobs
+Center for Advanced Professional Studies (CAPS) programs are nationally recognized, innovative high school programs. Students fast forward into their future and are fully immersed in a professional culture, solving real world problems, using industry standard tools and are mentored by actual employers, all while receiving high school and college credit. CAPS is an example of how business, community and public education can partner to produce personalized learning experiences that educate the workforce of tomorrow, especially in high skill, high demand jobs.
 </blockquote>
