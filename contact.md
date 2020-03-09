@@ -73,10 +73,10 @@ You can also reach or find us here: <br>
     Email: <a href="mailto:kapsnewsnetwork@gmail.com">kapsnewsnetwork@gmail.com</a>
   </li>
     <li> 
-    Instagram: <a href="www.instagram.com/kaps_news/">kaps_news</a>
+    Instagram: <a href="https://www.instagram.com/kaps_news/">kaps_news</a>
   </li>
   <li> 
-    YouTube: <a href="www.youtube.com/channel/UCkhL6aQCJuRRf1jzVC5UPag">KAPS News</a>
+    YouTube: <a href="https://www.youtube.com/channel/UCkhL6aQCJuRRf1jzVC5UPag">KAPS News</a>
   </li>
 </ul>
 
