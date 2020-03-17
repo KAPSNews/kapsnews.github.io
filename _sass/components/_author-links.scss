@@ -38,6 +38,12 @@
       .npm-button {
         @include clickable($text-color-1, $npm-color);
       }
+      .youtube-button {
+        @include clickable($text-color-1, $youtube-color);
+      }
+      .instagram-button {
+        @include clickable($text-color-1, $instagram-color);
+      }
     }
   }
 }
